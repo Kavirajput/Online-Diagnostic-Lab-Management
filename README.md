@@ -27,4 +27,4 @@ The Diagnostic Lab Management System is an open-source web application developed
 1. Clone the repository to your web server directory:
 
    ```shell
-   git clone https://github.com/yourusername/lab-management.git
+   git clone https://github.com/Kavirajput/Online-Diagnostic-Lab-Management.git
